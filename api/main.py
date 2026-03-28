@@ -6,6 +6,7 @@ import os
 import pandas as pd
 import numpy as np
 
+
 app = FastAPI(
     title="API de Classification Automatique",
     description="API pour classifier automatiquement des informations (Projet 4)",
